@@ -15,7 +15,7 @@
 
 # Meu portfólio:
 
-!(https://viniciusrib1.github.io/Portfolio/index.html)
+https://viniciusrib1.github.io/Portfolio/index.html
 
 
 
