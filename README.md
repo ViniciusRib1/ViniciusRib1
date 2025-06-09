@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Olá, me chamo Vinicius Ribeiro!</h1>
+<h1 style="align: center;"> Olá, me chamo Vinicius Ribeiro!</h1>
 
 <h3>Sobre mim: </h3>
 <p>
