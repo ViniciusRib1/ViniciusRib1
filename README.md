@@ -1,6 +1,10 @@
 <h1 align="center"> Olá, me chamo Vinicius Ribeiro!</h1>
 
 
+<p>
+Olá! Me chamo Vinicius Ribeiro, atualmente estou procurando meu primeiro emprego, estou cursando faculdade de ciências da computação na Unifaj, e sou um desenvolvedor que ama estudar novas tecnologias e linguagens de programação.
+</p>
+
 <div style="margin-left: 5cm;">
 
 ### **Linguagens que eu uso:**
