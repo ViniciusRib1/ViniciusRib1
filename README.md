@@ -1,6 +1,6 @@
-<h1 align="center"> Olá, me chamo Vinicius Ribeiro!</h1>
+<h1> Olá, me chamo Vinicius Ribeiro!</h1>
 
-<h3 style="text-decoration: underline;">Sobre mim: </h3>
+<h3">Sobre mim: </h3>
 <p>
 Olá! Me chamo Vinicius Ribeiro, atualmente estou procurando meu primeiro emprego, estou cursando faculdade de ciências da computação na Unifaj, e sou um desenvolvedor que ama estudar novas tecnologias e linguagens de programação.
 </p>
