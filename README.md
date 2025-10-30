@@ -18,7 +18,7 @@ Olá! Me chamo Vinicius Ribeiro, atualmente estou procurando meu primeiro empreg
 <h3>Meus Status:</h3>
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusRib1&show_icons=true&theme=radical) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRib1)](https://github.com/ViniciusRib1)
+[![Top Langs](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRib1&stats_format=bytes))](https://github.com/ViniciusRib1)
 
 <h3>Minhas Redes:</h3>
 
