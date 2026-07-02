@@ -2,7 +2,7 @@
 
 <h3>Sobre mim: </h3>
 <p>
-Olá! Me chamo Vinicius Ribeiro, atualmente estou procurando meu primeiro emprego, estou cursando faculdade de ciências da computação na Unifaj, e sou um desenvolvedor que ama estudar novas tecnologias e linguagens de programação.
+Me chamo Vinicius Ribeiro. Sou estudante de Ciência da Computação e desenvolvedor focado na criação de sistemas e jogos. Atualmente, agrego visão de processos operacionais como Jovem Aprendiz em logística, enquanto construo projetos em JavaScript, Node.js, Java e Jogos. Apaixonado por solucionar problemas por meio da programação e criar designs para interfaces de sistemas.
 </p>
 
 <div style="margin-left: 5cm;">
