@@ -1,31 +1,48 @@
-<h1 style="align: center;"> Olá, me chamo Vinicius Ribeiro!</h1>
+<h1 align="center">Olá, eu sou o Vinicius Ribeiro! 👋</h1>
 
-<h3>Sobre mim: </h3>
-<p>
-Me chamo Vinicius Ribeiro. Sou estudante de Ciência da Computação e desenvolvedor focado na criação de sistemas e jogos. Atualmente, agrego visão de processos operacionais como Jovem Aprendiz em logística, enquanto construo projetos em JavaScript, Node.js, Java e Jogos. Apaixonado por solucionar problemas por meio da programação e criar designs para interfaces de sistemas.
+<p align="center">
+  <i>Estudante de Ciência da Computação | Desenvolvedor Full-Stack | Criador de Sistemas e Jogos</i>
 </p>
 
-<div style="margin-left: 5cm;">
+---
 
-<h3>Linguagens que eu uso:</h3>
+### 👨‍💻 Sobre mim
+Sou estudante de Ciência da Computação e desenvolvedor focado na criação de sistemas e jogos. Atualmente, agrego visão de processos operacionais como Jovem Aprendiz em logística, enquanto construo projetos web e de software. Sou apaixonado por solucionar problemas por meio da programação e criar designs intuitivos para interfaces de sistemas.
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br>
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) <br>
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white)
+---
 
-<h3>Meus Status:</h3>
+### 🛠️ Minhas Habilidades
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</div>
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusRib1&show_icons=true&theme=radical) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRib1&layout=pie)](https://github.com/anuraghazra/github-readme-stats) <br>
+---
 
+### 🏆 Projetos em Destaque
+*Abaixo estão alguns dos meus principais repositórios e projetos práticos:*
 
-<h3>Minhas Redes:</h3>
+- **[Belle Sucré Café](https://github.com/ViniciusRib1)** - Desenvolvimento de site completo com carrinho de compras (incluindo lógicas de inserção de itens), cadastro de usuários e backend estruturado em MySQL.
+- **[Banco Digital Alfa](https://github.com/ViniciusRib1)** - Design e arquitetura de um sistema bancário digital, focado no levantamento de requisitos estruturados e diagramação UML.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinirib01/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-ribeiro-9a2452267/) <br>
-[![Portifólio](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://viniciusrib1.github.io/Portfolio/index.html)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniciusRib1)
+---
 
+### 📊 Status e Commits do GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusRib1&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRib1&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+---
+
+### 🌐 Minhas Redes e Contato
+<div align="center">
+  <a href="https://www.linkedin.com/in/vinicius-ribeiro-9a2452267/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/ViniciusRib1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://viniciusrib1.github.io/Portfolio/index.html" target="_blank"><img src="https://img.shields.io/badge/Portfólio-255E63?style=for-the-badge&logo=CodePen&logoColor=white" alt="Portfólio"></a>
+  <a href="https://www.instagram.com/vinirib01/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
