@@ -27,10 +27,8 @@ Sou estudante de Ciência da Computação e desenvolvedor focado na criação de
 
 ### 📊 Status e Commits do GitHub
 <div align="left">
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusRib1&show_icons=true&theme=radical&hide_border=true)](https://github.com/ViniciusRib1)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRib1&layout=compact&theme=radical&hide_border=true)](https://github.com/ViniciusRib1)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ViniciusRib1&theme=radical&hide_border=true)](https://github.com/ViniciusRib1)
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusRib1&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRib1&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusRib1&theme=radical&hide_border=true" height="150" alt="GitHub Streak Stats" />
 </div>
 
