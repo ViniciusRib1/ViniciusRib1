@@ -12,7 +12,7 @@ Sou estudante de Ciência da Computação e desenvolvedor focado na criação de
 ---
 
 ### 🛠️ Minhas Habilidades
-<div align="center">
+<div align="right">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
