@@ -3,7 +3,7 @@
   <p><i>Estudante de Ciência da Computação | Desenvolvedor Full-Stack | Criador de Sistemas e Jogos</i></p>
 </div>
 
-<div style="border: solid, 1px, white"></div>
+---
 
 ### 👨‍💻 Sobre mim
 Sou estudante de Ciência da Computação e desenvolvedor focado na criação de sistemas e jogos. Atualmente, agrego visão de processos operacionais como Jovem Aprendiz em logística, enquanto construo projetos web e de software. Sou apaixonado por solucionar problemas por meio da programação e criar designs intuitivos para interfaces de sistemas.
@@ -16,6 +16,7 @@ Sou estudante de Ciência da Computação e desenvolvedor focado na criação de
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
 ### 🏆 Projetos em Destaque
@@ -28,6 +29,8 @@ Sou estudante de Ciência da Computação e desenvolvedor focado na criação de
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusRib1&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRib1&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusRib1&theme=radical&hide_border=true" height="150" alt="GitHub Streak Stats" />
 </div>
 
 ### 🌐 Minhas Redes e Contato
