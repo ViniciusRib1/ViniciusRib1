@@ -22,8 +22,8 @@ Sou estudante de Ciência da Computação e desenvolvedor focado na criação de
 
 ### 📊 Status e Commits do GitHub
 <div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusRib1&show_icons=true&theme=transparent&hide_border=true" alt="Status do GitHub de Vinicius" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRib1&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusRib1&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRib1&layout=compact&theme=transparent&hide_border=true"  />
 </div>
 
 ### 🌐 Minhas Redes e Contato
