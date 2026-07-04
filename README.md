@@ -17,17 +17,27 @@ Sou estudante de Ciência da Computação e desenvolvedor focado na criação de
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </div>
 
 ### 📊 Status e Commits do GitHub
 <div align="left">
-  ![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusRib1&show_icons=true&theme=transparent)
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusRib1&show_icons=true&theme=transparent&hide_border=true" alt="Status do GitHub de Vinicius" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRib1&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas" />
 </div>
 
 ### 🌐 Minhas Redes e Contato
 <div align="left">
-  <a href="https://www.linkedin.com/in/vinicius-ribeiro-9a2452267/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/ViniciusRib1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://viniciusrib1.github.io/Portfolio/index.html" target="_blank"><img src="https://img.shields.io/badge/Portfólio-255E63?style=for-the-badge&logo=CodePen&logoColor=white" alt="Portfólio"></a>
-  <a href="https://www.instagram.com/vinirib01/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/vinicius-ribeiro-9a2452267/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/ViniciusRib1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://viniciusrib1.github.io/Portfolio/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-255E63?style=for-the-badge&logo=CodePen&logoColor=white" alt="Portfólio">
+  </a>
+  <a href="https://www.instagram.com/vinirib01/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </div>
