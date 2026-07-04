@@ -19,12 +19,6 @@ Sou estudante de Ciência da Computação e desenvolvedor focado na criação de
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
-### 🏆 Projetos em Destaque
-*Abaixo estão alguns dos meus principais repositórios e projetos práticos:*
-
-- **[Belle Sucré Café](https://github.com/ViniciusRib1)** - Desenvolvimento de site completo com carrinho de compras (incluindo lógicas de inserção de itens como o bolo de morango), cadastro de usuários e backend estruturado em MySQL.
-- **[Banco Digital Alfa](https://github.com/ViniciusRib1)** - Design e arquitetura de um sistema bancário digital, focado no levantamento de requisitos estruturados e diagramação UML.
-
 ### 📊 Status e Commits do GitHub
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusRib1&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
