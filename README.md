@@ -1,5 +1,5 @@
 <div align="center">
-  <h3><b>Olá, eu sou o Vinicius Ribeiro! 👋</b></h3>
+  <h3><b>Olá, me chamo Vinicius Ribeiro! 👋</b></h3>
   <p><i>Estudante de Ciência da Computação | Desenvolvedor Full-Stack | Criador de Sistemas e Jogos</i></p>
 </div>
 
