@@ -1,7 +1,5 @@
-<div align="center">
-  <h3><b>Olá, me chamo Vinicius Ribeiro! 👋</b></h3>
-  <p><i>Estudante de Ciência da Computação | Desenvolvedor Full-Stack | Criador de Sistemas e Jogos</i></p>
-</div>
+### 👋 Olá, me chamo Vinicius Ribeiro!
+**Estudante de Ciência da Computação | Desenvolvedor Full-Stack | Criador de Sistemas e Jogos**
 
 ---
 
@@ -16,14 +14,22 @@ Sou estudante de Ciência da Computação e desenvolvedor focado na criação de
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </div>
+<br>
 
 ### 📊 Status e Commits do GitHub
 <div align="left">
-[![Vinicius's GitHub stats](https://github-stats-extended.vercel.app/api?username=ViniciusRib1)](https://github.com/stats-organization/github-stats-extended) 
+  <a href="https://github.com/ViniciusRib1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusRib1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRib1&layout=compact&theme=dracula" alt="Linguagens Mais Usadas" />
+  </a>
 </div>
+<br>
 
 ### 🌐 Minhas Redes e Contato
 <div align="left">
