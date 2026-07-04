@@ -23,7 +23,21 @@ Sou estudante de Ciência da Computação e desenvolvedor focado na criação de
 ### 📊 Status e Commits do GitHub
 <div align="left">
   <br>
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ViniciusRib1)](https://github.com/stats-organization/github-stats-extended)
+<img
+    align="left"
+    alt="GitHub Stats"
+    heiht="200px"
+    style="padding-right: 10px"
+    src="https://github-readme-stats.vercel.app/api?username=ViniciusRib1&show_icons=true&theme=tokyonight&include_all_commits=true"
+/>
+
+<img
+    align="left"
+    alt="GitHub Stats"
+    heiht="200px"
+    style="padding-right: 10px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRib1&theme=tokyonight"
+/>
 
   
 </div>
