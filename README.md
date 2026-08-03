@@ -51,7 +51,7 @@ Sou estudante de Ciência da Computação e desenvolvedor focado na criação de
   <a href="https://github.com/ViniciusRib1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://viniciusrib1.github.io/Portfolio/index.html" target="_blank">
+  <a href="https://viniciusrib1.github.io/Portfolio-Vinicius-Ribeiro/index.html" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-255E63?style=for-the-badge&logo=CodePen&logoColor=white" alt="Portfólio">
   </a>
   <a href="https://www.instagram.com/vinirib01/" target="_blank">
